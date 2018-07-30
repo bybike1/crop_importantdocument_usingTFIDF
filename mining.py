@@ -4,8 +4,6 @@ from sudachipy import config
 import csv
 import json
 from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.grid_search import GridSearchCV
-from sklearn import svm
 import math
 import os
 
