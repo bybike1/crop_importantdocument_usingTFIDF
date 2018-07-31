@@ -256,11 +256,3 @@ for field in fields:
 f.close()
 
 
-"""
-count_vectorizer = CountVectorizer()
-feature_vectors = count_vectorizer.fit_transform(wordlist)
-print(feature_vectors.toarray())
-"""
-
-
-#dct = gensim.corpora.Dictionary(wordlist.values())
